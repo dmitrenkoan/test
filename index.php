@@ -64,4 +64,6 @@ echo $oMore->var;
 
 echo 'test message';
 
+echo 'test message2';
+
 //echo $oTest->var;
