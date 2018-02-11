@@ -62,4 +62,6 @@ echo $oMore->setMe('foo');
 
 echo $oMore->var;
 
+echo 'test message';
+
 //echo $oTest->var;
